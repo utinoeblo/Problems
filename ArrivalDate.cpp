@@ -1,5 +1,6 @@
 ﻿/*
-    You have to calculate what time it would be after you travel on a train. Input file has current time (HH:MM) and time of your travel (Hours < 120 and Minutes < 59).
+    You have to calculate what time it would be after you travel on a train. 
+    Input file has current time (HH:MM) and time of your travel (Hours < 120 and Minutes < 59).
 */
 
 #include <iostream>
