@@ -1,6 +1,6 @@
 ﻿/*
     A program that imitates a game where you have a ball and 3 thimbles.
-    Each of the three types of moves affect to thimbles and change their positions with each other.
+    Each of the three types of moves affect thimbles and change their positions with each other.
     The input file has a string of moves (e.g. ABCBCACBBC), the output has the number of the thimble with the ball.
     By default the ball is under the first thimble.
 */
